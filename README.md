@@ -1,2 +1,2 @@
 # LinkedIn-Clone
-Creating a LinkedIn Clone using NEXT JS
+Creating a LinkedIn Clone using NEXT.JS
